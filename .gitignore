@@ -1,0 +1,59 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Output of build tools
+build/
+.next/
+dist/
+out/
+
+# Cache files
+.cache/
+.eslintcache
+.parcel-cache/
+.yarn/cache/
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+.eslintrc
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+.*.swp
+
+# Miscellaneous
+.*.swn
+.*.swo
+.babelrc
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+.local-env.js
+.env.local.js
+.env.local.ts
+.env.local.tsx
+.env.development.local
+.env.development.local.js
+.env.development.local.ts
+.env.development.local.tsx
+.env.test.local
+.env.test.local.js
+.env.test.local.ts
+.env.test.local.tsx
+.env.production.local
+.env.production.local.js
+.env.production.local.ts
+.env.production.local.tsx
