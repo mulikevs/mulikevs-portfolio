@@ -28,7 +28,7 @@
     "imgSrc": "/images/about-banner.png",
     "miniTitle": "About Us",
     "title": "I AM AVAILABLE FOR <span>SOFTWARE DEVELOPMENT</span> PROJECTS",
-    "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "description": "Kelvin is a passionate full-stack developer with extensive expertise in web and app development. With a deep understanding of languages and technologies like Java, JavaScript, Python, PHP, and Kotlin, Kelvin possesses a broad range of technical knowledge. Furthermore, Kelvin is proficient in popular frameworks and libraries such asSpring Boot ReactJS, Angular, and Node.js. Kelvin strives to create innovative and impactful solutions in the world of software development.",
     "funfacts": [
       {
         "title": "Google Review",
@@ -226,7 +226,7 @@
   "testimonial": {
     "sectionHeading": {
       "miniTitle": "Testimonial",
-      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+      "title": "WHAT PEOPLE SAY ABOUT ME"
     },
     "allTestimonial": [
       {
