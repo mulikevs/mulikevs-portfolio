@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Introduction
 
-The Jenna React Template directory structure includes the following:
+The React Template directory structure includes the following:
 
 public: Contains all static files.
 images: Stores all images used in the template.
