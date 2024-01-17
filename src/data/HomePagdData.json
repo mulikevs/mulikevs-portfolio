@@ -2,7 +2,7 @@
   "hero": {
     "imgUrl": "/images/medium-shot1.jpg",
     "name": "Kelvin M. Mwau",
-    "heading": "Hey! I’m Mulikevs",
+    "heading": "",
     "typingText": ["DevOps", 1500, "Software Engineer", 1500],
     "description": "I am a Software developer from Nairobi Kenya, with a strong focus in Java (Spring), Php (Codeighniter|Laravel), RPA (Power Automate|UIPATH) and DevSecOps. I love to get new experiences and always learn from my surroundings. I've done multiple projects. You can check it through portfolio section on this website. I looking forward to any opportunities and challenges",
     "btnText": "Get in touch",
@@ -53,7 +53,7 @@
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/popup-project-1.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -67,7 +67,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-2.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -81,7 +81,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-3.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Dashboard Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -95,7 +95,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-4.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Mobile App Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -109,7 +109,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-5.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -123,7 +123,7 @@
         }
       },
       {
-        "thumbUrl": "/images/popup-project-6.jpg",
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Web Design, App Design",
         "details": {
@@ -145,28 +145,28 @@
     },
     "allService": [
       {
-        "imgUrl": "/images/service-01.jpg",
+        "imgUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/service-02.jpg",
+        "imgUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
-        "imgUrl": "/images/service-03.jpg",
+        "imgUrl": "/images/smedium-shot1.jpg",
         "title": "SEO Marketing",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:speedometer2",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/service-04.jpg",
+        "imgUrl": "/images/medium-shot1.jpg",
         "title": "Graphic Design",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:palette",
@@ -260,7 +260,7 @@
       "title": "Let’s Discuss Your Project",
       "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
     },
-    "contactImg": "/images/contact-us.png",
+    "contactImg": "/images/medium-shot1.jpg",
     "contactInfo": [
       { "title": "Write an e-mail", "email": "kelvinmmwau@gmail.com, mulikevs@sitemapdev.co.ke" },
       { "title": "write an e-mail", "tel": "+254 733 190 378" }
