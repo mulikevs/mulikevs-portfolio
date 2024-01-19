@@ -8,19 +8,19 @@ export default function Blog({ data }) {
   const { sectionHeading } = data;
 
   useEffect(() => {
-    fetch("https://sitemapdev.co.ke/blog_sitemapdev/public/blogs/latest-three")
+    fetch("https://sitemapdev.co.ke/blog_sitemapdev/public/blogs/latest-four")
       .then((response) => response.json())
-      .then((constdata) => {
+    .then((constdata) => {
         setAllService(
-            constdata.map((item) => ({
-            imgUrl: item.image,
-            icon: "bi:code-square",
-            title: item.title,
-            subTitle: item.category,
-            ratings: Math.random() * (5 - 4) + 4,
-          }))
+                constdata.map((item) => ({
+                imgUrl: `https://sitemapdev.co.ke/blog_sitemapdev/public/${item.image}`,
+                icon: "bi:code-square",
+                title: item.title,
+                subTitle: item.category,
+                ratings: Math.random() * (5 - 4) + 4,
+            }))
         );
-      })
+    })
       .catch((error) => {
         console.error("Error fetching blog data:", error);
       });

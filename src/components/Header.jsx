@@ -95,7 +95,7 @@ export default function Header() {
               duration={500}
               onClick={() => setMobileToggle(false)}
             >
-              Services
+              Blog
             </ScrollLink>
           </li>
           <li>
