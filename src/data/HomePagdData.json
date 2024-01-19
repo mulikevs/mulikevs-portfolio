@@ -39,7 +39,7 @@
         "number": 8
       },
       {
-        "title": "Award Winning",
+        "title": "Projects Done",
         "number": 49
       }
     ],
@@ -222,6 +222,12 @@
         "companyDescription": "Fully supported, configured, maintained and upgraded cloud and physical and virtual environment(Both Linux and Windows)."
       }
     ]
+  },
+  "blog": {
+    "sectionHeading": {
+      "miniTitle": "BLOG",
+      "title": "Our <span>Latest</span> blog posts"
+    }
   },
   "testimonial": {
     "sectionHeading": {
