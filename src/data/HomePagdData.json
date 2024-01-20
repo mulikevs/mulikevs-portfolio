@@ -57,7 +57,7 @@
         "title": "Website Design",
         "subTitle": "Web Design, App Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
+          "title": "Website Design for a foundation",
           "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS",
@@ -153,14 +153,14 @@
       },
       {
         "imgUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
+        "title": "Tshirt Design",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
         "imgUrl": "/images/smedium-shot1.jpg",
-        "title": "SEO Marketing",
+        "title": "LOGO Design",
         "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
         "icon": "bi:speedometer2",
         "ratings": 5
