@@ -10,15 +10,15 @@
   },
   "socialBtns": [
     {
-      "icon": "fa-brands:facebook-f",
-      "iconBgClass": "facebook",
-      "href": "/"
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/mulikevs"
     },
     { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
-      "href": "/"
+      "href": "https://www.linkedin.com/in/kelvin-muli-4a007170/"
     }
   ],
   "brands": [
@@ -30,10 +30,6 @@
     "title": "I AM AVAILABLE FOR <span>SOFTWARE DEVELOPMENT </span> PROJECTS",
     "description": "Kelvin is a passionate full-stack developer with extensive expertise in web and app development. With a deep understanding of languages and technologies like Java, JavaScript, Python, PHP, and Kotlin, Kelvin possesses a broad range of technical knowledge. Furthermore, Kelvin is proficient in popular frameworks and libraries such asSpring Boot ReactJS, Angular, and Node.js. Kelvin strives to create innovative and impactful solutions in the world of software development.",
     "funfacts": [
-      {
-        "title": "Google Review",
-        "number": 280
-      },
       {
         "title": "Years Experience",
         "number": 8
@@ -54,86 +50,86 @@
     "allProjects": [
       {
         "thumbUrl": "/images/medium-shot1.jpg",
+        "title": "Microservices API",
+        "subTitle": "Backend Development, API Design , Microservice",
+        "details": {
+          "title": "API Development with Feign Client + Eureka + Spring Cloud Loadbalancer",
+          "description": "Development of microservices API using Feign Client, Eureka, and Spring Cloud Loadbalancer.",
+          "type": "Application",
+          "languages": "Java, Spring Boot, Postgres, REST",
+          "platform": "Spring Boot",
+          "country": "KENYA",
+          "url": "https://github.com/mulikevs/microservices"
+        }
+      },
+      {
+        "thumbUrl": "/images/medium-shot1.jpg",
+        "title": "Backend Development",
+        "subTitle": "Python Django CRUD API with MySQL and Django Rest Framework",
+        "details": {
+          "title": "Python Django CRUD API with MySQL and Django Rest Framework",
+          "description": "Development of a CRUD API using Python Django, MySQL, and Django Rest Framework.",
+          "type": "Application",
+          "languages": "Python, MySQL, REST",
+          "platform": "Python",
+          "country": "KENYA",
+          "url": "https://github.com/mulikevs/django_rest"
+        }
+      },
+      {
+        "thumbUrl": "/images/medium-shot1.jpg",
+        "title": "Spring Security",
+        "subTitle": "A Spring Boot application with role-based permissions and JWT authenticated REST APIs.",
+        "details": {
+          "title": "ROLE AND PERMISSIONS BASED API WITH SPRING BOOT",
+          "description": "A Spring Boot application with role-based permissions and JWT authenticated REST APIs.",
+          "type": "Application",
+          "languages": "Java, Spring Boot, MySQL, REST",
+          "platform": "Spring Boot",
+          "country": "KENYA",
+          "url": "https://github.com/mulikevs/rolepermissions_jwt"
+        }
+      },
+      {
+        "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "subTitle": "A visually appealing and user-friendly website designed for a foundation.",
         "details": {
           "title": "Website Design for a foundation",
-          "description": ".",
+          "description": "A visually appealing and user-friendly website designed for a foundation.",
           "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "languages": "React, Tailwind CSS",
+          "platform": "React Js",
+          "country": "KENYA",
+          "url": "https://bmkfoundation.org/"
         }
       },
       {
         "thumbUrl": "/images/medium-shot1.jpg",
         "title": "Website Design",
-        "subTitle": "Web Design, App Design",
+        "subTitle": "A Blog on Tech with an emphasis on web development.",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "title": "SiteMapDev",
+          "description": "A Blog on Tech with an emphasis on web development.",
           "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "languages": "PHP, Tailwind, JS",
+          "platform": "Laravel",
+          "country": "KENYA",
+          "url": "https://sitemapdev.co.ke/"
         }
       },
       {
         "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Dashboard Design",
+        "title": "Simple Blackjack Game",
         "subTitle": "Web Design, App Design",
         "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Mobile App Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website Design for Marketing Agency Startup",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS",
-          "platform": "WordPress",
-          "country": "USA",
-          "url": "www.example.com"
+          "title": "Simple Blackjack Game",
+          "description": "A straightforward implementation of a blackjack game.",
+          "type": "Game",
+          "languages": "HTML, CSS, JS",
+          "platform": "TypeScript",
+          "country": "KENYA",
+          "url": "https://github.com/mulikevs/simple-blackjack-game"
         }
       }
     ]
@@ -146,34 +142,34 @@
     "allService": [
       {
         "imgUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "title": "Application Development",
+        "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
         "imgUrl": "/images/medium-shot1.jpg",
-        "title": "Tshirt Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "title": "Website Design",
+        "subTitle": "Crafting visually appealing and user-friendly websites that leave a lasting impression.",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
-        "imgUrl": "/images/smedium-shot1.jpg",
-        "title": "LOGO Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "imgUrl": "/images/medium-shot1.jpg",
+        "title": "Mobile App Development",
+        "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.",
         "icon": "bi:speedometer2",
         "ratings": 5
       },
       {
         "imgUrl": "/images/medium-shot1.jpg",
         "title": "Graphic Design",
-        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "subTitle": "Bringing creativity to life through visually stunning graphic designs for various purposes.",
         "icon": "bi:palette",
         "ratings": 5
       }
     ]
-  },
+  },  
   "experience": {
     "sectionHeading": {
       "miniTitle": "Experience",
@@ -186,7 +182,16 @@
         "duration": "FEB 2021 - PRESENT",
         "jobType": "Full time",
         "companyTitle": "About Company",
-        "companyDescription": "Developing and managing SOA integrations using webservices technologies (SOAP, REST, UDDI, WSDL) and implementing a DevOps CI/CD pipeline with Peer Programming, Version Control (TFS and Git), Jenkins, and TIBCO TEA for service hosting. <br />  Developing Backend applications in Java spring boot and PHPLaravel using a React JS front end, and Oracle or my SQL databases. <br />  Developing, Enhancing, Testing and Digitizing BPMS workflows using process maker."
+        "companyDescription": [
+          "Developed and managed SOA integrations using webservices technologies (SOAP, REST, UDDI, WSDL).",
+          "Implemented a DevOps CI/CD pipeline with Peer Programming, Version Control (TFS and Git), Jenkins, and TIBCO TEA for service hosting.",
+          "Developed Backend applications in Java spring boot and PHP Laravel using a React JS front end, and Oracle or MySQL databases.",
+          "Enhanced, tested, and digitized BPMS workflows using process maker."
+        ],
+        "achievements": [
+          "Successfully implemented a CI/CD pipeline, reducing deployment time by 30%.",
+          "Led the development of a critical SOA integration project, ensuring seamless communication between systems."
+        ]
       },
       {
         "designation": "Software Consultant",
@@ -194,7 +199,9 @@
         "duration": "MAR 2022 - SEP 2022",
         "jobType": "Part time",
         "companyTitle": "About Company",
-        "companyDescription": "Reviewing current systems, monitoring performance and maintaining systems to secure efficiency and compliance to organization policies (PCIDSS) and procedures."
+        "companyDescription": [
+          "Reviewed current systems, monitored performance, and maintained systems to ensure efficiency and compliance with organization policies (PCIDSS) and procedures."
+        ]
       },
       {
         "designation": "PHP Developer",
@@ -202,7 +209,14 @@
         "duration": "OCT 2020 - FEB 2021",
         "jobType": "Full time",
         "companyTitle": "About Company",
-        "companyDescription": "Managing existing systems. Database indexing and optimization. Repository Management SVN. Collaborating with other developers, quality assurance and DevOps Officers."
+        "companyDescription": [
+          "Managed existing systems, including database indexing and optimization.",
+          "Handled Repository Management SVN.",
+          "Collaborated with other developers, quality assurance, and DevOps Officers."
+        ],
+        "achievements": [
+          "Successfully optimized database indexes, improving overall system performance by 20%."
+        ]
       },
       {
         "designation": "Full Stack Developer/DevOps",
@@ -210,19 +224,30 @@
         "duration": "JAN 2016 - OCT 2020",
         "jobType": "Full time",
         "companyTitle": "About Company",
-        "companyDescription": "Software Development(Java, PHP, React,JS, Python), Mobile App development (Android and hybrid),Database(Oracle, PostgreSQL, MySQL,SQLite, SQL Server). DevOps: Implementing and managing end-to-end Continuous Integration/Continuous Deployment (CI/CD) processes utilizing Git,Jenkins, and Terraform. Containers & Orchestration: Proficient in utilizing Docker for containerization and Kubernetes for orchestration, ensuring efficient management and scalability of applications."
-      }
-      ,
+        "companyDescription": [
+          "Led software development projects using Java, PHP, React JS, Python, and mobile app development for Android and hybrid platforms.",
+          "Managed databases (Oracle, PostgreSQL, MySQL, SQLite, SQL Server).",
+          "Implemented and managed end-to-end Continuous Integration/Continuous Deployment (CI/CD) processes utilizing Git, Jenkins, and Terraform.",
+          "Utilized Docker for containerization and Kubernetes for orchestration, ensuring efficient management and scalability of applications."
+        ],
+        "achievements": [
+          "Successfully implemented CI/CD processes, reducing deployment cycles by 25%.",
+          "Pioneered containerization using Docker, leading to improved application scalability."
+        ]
+      },
       {
         "designation": "Technical Support/ System Administrator",
         "company": "IMPALAPAY | ONSITE",
         "duration": "AUG 2014 - JAN 2016",
         "jobType": "Full time",
         "companyTitle": "About Company",
-        "companyDescription": "Fully supported, configured, maintained and upgraded cloud and physical and virtual environment(Both Linux and Windows)."
+        "companyDescription": [
+          "Provided full support, configuration, maintenance, and upgrades for both cloud and physical/virtual environments (Linux and Windows)."
+        ]
       }
     ]
-  },
+  }
+  ,
   "blog": {
     "sectionHeading": {
       "miniTitle": "BLOG",
@@ -237,25 +262,25 @@
     "allTestimonial": [
       {
         "reviewText": "Muli's attention to detail and commitment to quality were instrumental in our project's success. His ability to code efficiently and troubleshoot issues made a significant impact. It was a great experience working alongside him",
-        "avatarImg": "/images/avatar-1.jpg",
+        "avatarImg": "/images/tiger.jpg",
         "avatarName": "Eugene Chimita",
         "avatarCompany": "ImpalaPay"
       },
       {
         "reviewText": "Kelvin is a highly skilled and experienced software developer. He is always willing to go the extra mile to get the job done and are always looking for ways to improve our systems. Kelvin is also a great team player and is always willing to help others. I highly recommend Kelvin for any software development position.",
-        "avatarImg": "/images/avatar-2.jpg",
+        "avatarImg": "/images/tiger.jpg",
         "avatarName": "Peris",
         "avatarCompany": "MooveBeta"
       },
       {
         "reviewText": "Working with Kelvin is a pleasure. His technical knowledge and collaborative approach made our projects run smoothly. He's a team player, always ready to share insights and support team members. I look forward to future collaborations with him.",
-        "avatarImg": "/images/avatar-3.jpg",
+        "avatarImg": "/images/tiger.jpg",
         "avatarName": "Morris Muthigani",
         "avatarCompany": "Co-op Bank"
       },
       {
         "reviewText": "Kelvin delivered a solution that exceeded our expectations. His ability to understand our needs and translate them into a user-friendly application was impressive. We're grateful for his dedication to our project's success.",
-        "avatarImg": "/images/avatar-3.jpg",
+        "avatarImg": "/images/tiger.jpg",
         "avatarName": "Agnes Kavoi",
         "avatarCompany": "BMK Foundation"
       }
@@ -266,10 +291,10 @@
       "title": "Let’s Discuss Your Project",
       "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
     },
-    "contactImg": "/images/medium-shot1.jpg",
+    "contactImg": "/images/tiger.jpg",
     "contactInfo": [
       { "title": "Write an e-mail", "email": "kelvinmmwau@gmail.com, mulikevs@sitemapdev.co.ke" },
-      { "title": "write an e-mail", "tel": "+254 733 190 378" }
+      { "title": "write an e-mail", "tel": "+254 701 411 552" }
     ]
   }
 }
