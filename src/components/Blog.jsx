@@ -10,21 +10,26 @@ export default function Blog({ data }) {
   useEffect(() => {
     fetch("https://sitemapdev.co.ke/blog_sitemapdev/public/blogs/latest-four")
       .then((response) => response.json())
-    .then((constdata) => {
+      .then((constdata) => {
         setAllService(
-                constdata.map((item) => ({
-                imgUrl: `https://sitemapdev.co.ke/blog_sitemapdev/public/${item.image}`,
-                icon: "bi:code-square",
-                title: item.title,
-                subTitle: item.category,
-                ratings: Math.random() * (5 - 4) + 4,
-            }))
+          constdata.map((item) => ({
+            imgUrl: `https://sitemapdev.co.ke/blog_sitemapdev/public/${item.image}`,
+            icon: "bi:code-square",
+            title: item.title,
+            subTitle: item.category,
+            ratings: Math.random() * (5 - 4) + 4,
+            slug: item.slug, // Added slug property
+          }))
         );
-    })
+      })
       .catch((error) => {
         console.error("Error fetching blog data:", error);
       });
   }, []);
+
+  const redirectToBlog = (slug) => {
+    window.location.href = `http://sitemapdev.co.ke/blog_sitemapdev/public/blogs/${slug}`;
+  };
 
   return (
     <section className="section" id="blog">
@@ -42,6 +47,7 @@ export default function Blog({ data }) {
                 data-aos="fade-left"
                 data-aos-duration="1200"
                 data-aos-delay={index * 100}
+                onClick={() => redirectToBlog(item.slug)} // Added onClick event
               >
                 <div className="services-body">
                   <div className="icon">
