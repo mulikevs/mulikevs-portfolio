@@ -19,6 +19,11 @@
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
       "href": "https://www.linkedin.com/in/kelvin-muli-4a007170/"
+    },
+    {
+      "icon": "fa-solid:coffee",
+      "iconBgClass": "buymeacoffee",
+      "href": "https://www.buymeacoffee.com/mulikevs"
     }
   ],
   "brands": [
