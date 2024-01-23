@@ -18,7 +18,7 @@ export default function Blog({ data }) {
             title: item.title,
             subTitle: item.category,
             ratings: Math.random() * (5 - 4) + 4,
-            slug: item.slug, // Added slug property
+            slug: item.slug, //Slugger Added slug property
           }))
         );
       })
