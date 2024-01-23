@@ -30,10 +30,10 @@
 
   ],
   "about": {
-    "imgSrc": "/images/medium-shot1.jpg",
-    "miniTitle": "About Us",
-    "title": "I AM AVAILABLE FOR <span>SOFTWARE DEVELOPMENT </span> PROJECTS",
-    "description": "Kelvin is a passionate full-stack developer with extensive expertise in web and app development. With a deep understanding of languages and technologies like Java, JavaScript, Python, PHP, and Kotlin, Kelvin possesses a broad range of technical knowledge. Furthermore, Kelvin is proficient in popular frameworks and libraries such asSpring Boot ReactJS, Angular, and Node.js. Kelvin strives to create innovative and impactful solutions in the world of software development.",
+    "imgSrc": "/images/dev-top.jpg",
+    "miniTitle": "About",
+    "title": "UNLEASHING INNOVATION THROUGH <span>SOFTWARE DEVELOPMENT</span>",
+    "description": "Greetings! I'm Kelvin, a passionate full-stack developer with over 8 years of experience in crafting remarkable web and app solutions. My journey involves delving deep into the realms of Java, JavaScript, Python, PHP, and Kotlin. Proficient in frameworks like Spring Boot, ReactJS, Angular, and Node.js, I strive to create impactful solutions that resonate in the world of software development.",
     "funfacts": [
       {
         "title": "Years Experience",
@@ -44,9 +44,13 @@
         "number": 49
       }
     ],
-    "btnText": "Get in touch",
+    "highlights": [
+      "Successfully led a team in developing a cutting-edge mobile app for [Company Name].",
+      "Completed [Certification] to stay ahead in the ever-evolving tech landscape."
+    ],
+    "btnText": "Let's Collaborate",
     "btnUrl": "contactus"
-  },
+  },  
   "projects": {
     "sectionHeading": {
       "miniTitle": "My Work",
