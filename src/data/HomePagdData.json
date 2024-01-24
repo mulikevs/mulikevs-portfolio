@@ -58,7 +58,7 @@
     },
     "allProjects": [
       {
-        "thumbUrl": "/images/medium-shot1.jpg",
+        "thumbUrl": "/images/howmicroserviceswork.jpg",
         "title": "Microservices API",
         "subTitle": "Backend Development, API Design , Microservice",
         "details": {
@@ -72,7 +72,7 @@
         }
       },
       {
-        "thumbUrl": "/images/medium-shot1.jpg",
+        "thumbUrl": "/images/DJango JWT.jpg",
         "title": "Backend Development",
         "subTitle": "Python Django CRUD API with MySQL and Django Rest Framework",
         "details": {
@@ -86,7 +86,7 @@
         }
       },
       {
-        "thumbUrl": "/images/medium-shot1.jpg",
+        "thumbUrl": "/images/spring-boot.jpg",
         "title": "Spring Security",
         "subTitle": "A Spring Boot application with role-based permissions and JWT authenticated REST APIs.",
         "details": {
