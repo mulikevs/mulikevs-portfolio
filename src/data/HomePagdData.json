@@ -153,7 +153,7 @@
         "imgUrl": "/images/app-dev.jpg",
         "title": "Application Development",
         "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.",
-        "icon": "bi:brush-fill",
+        "icon": "bi:cpu",
         "ratings": 5
       },
       {
@@ -167,7 +167,7 @@
         "imgUrl": "/images/mobile-app-dev.jpg",
         "title": "Mobile App Development",
         "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.",
-        "icon": "bi:speedometer2",
+        "icon": "bi:phone",
         "ratings": 5
       },
       {
