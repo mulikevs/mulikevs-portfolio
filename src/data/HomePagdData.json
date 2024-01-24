@@ -150,28 +150,28 @@
     },
     "allService": [
       {
-        "imgUrl": "/images/medium-shot1.jpg",
+        "imgUrl": "/images/app-dev.jpg",
         "title": "Application Development",
         "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.",
         "icon": "bi:brush-fill",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/medium-shot1.jpg",
+        "imgUrl": "/images/web-design.jpg",
         "title": "Website Design",
         "subTitle": "Crafting visually appealing and user-friendly websites that leave a lasting impression.",
         "icon": "bi:code-square",
         "ratings": 4.5
       },
       {
-        "imgUrl": "/images/medium-shot1.jpg",
+        "imgUrl": "/images/mobile-app-dev.jpg",
         "title": "Mobile App Development",
         "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.",
         "icon": "bi:speedometer2",
         "ratings": 5
       },
       {
-        "imgUrl": "/images/medium-shot1.jpg",
+        "imgUrl": "/images/graphic-design.jpg",
         "title": "Graphic Design",
         "subTitle": "Bringing creativity to life through visually stunning graphic designs for various purposes.",
         "icon": "bi:palette",
