@@ -298,12 +298,12 @@
   "contact": {
     "sectionHeading": {
       "title": "Let’s Discuss Your Project",
-      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+      "subTitle": "Always available for freelancing if the right project comes along. I prioritize deep work for optimal productivity, so please understand potential delays in responses. Your patience is appreciated."
     },
     "contactImg": "/images/tiger.jpg",
     "contactInfo": [
       { "title": "Write an e-mail", "email": "kelvinmmwau@gmail.com, mulikevs@sitemapdev.co.ke" },
-      { "title": "write an e-mail", "tel": "+254 701 411 552" }
+      { "title": "Write an e-mail", "tel": "+254 701 411 552" }
     ]
   }
 }
