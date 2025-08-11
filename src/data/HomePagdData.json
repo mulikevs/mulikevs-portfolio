@@ -1,7 +1,7 @@
 {
   "hero": {
     "imgUrl": "/images/medium-shot1.jpg",
-    "name": "Kelvin M. Mwau",
+    "name": "Felton Babu",
     "heading": "",
     "typingText": ["DevOps", 1500, "Software Engineer", 1500],
     "description": "I'm a passionate Software Engineer hailing from Nairobi, Kenya, specializing in Java (Spring), Php (Codeigniter|Laravel), and RPA (Power Automate|UIPATH) with a keen interest in DevSecOps. Exploring new horizons and continuous learning are my driving forces. With a rich portfolio showcasing a myriad of projects, you're invited to delve into the details in the dedicated portfolio section of this website. I am eagerly anticipating exciting opportunities and challenges ahead. Let's embark on this journey together!",
@@ -12,283 +12,88 @@
     {
       "icon": "fa-brands:github",
       "iconBgClass": "github",
-      "href": "https://github.com/mulikevs"
+      "href": "#"
     },
-    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "https://dribbble.com/mulikevs" },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "#" },
     {
       "icon": "fa-brands:linkedin-in",
       "iconBgClass": "linkedin",
-      "href": "https://www.linkedin.com/in/kelvin-muli-4a007170/"
+      "href": "#"
     },
     {
       "icon": "fa-solid:coffee",
       "iconBgClass": "buymeacoffee",
-      "href": "https://www.buymeacoffee.com/mulikevs"
+      "href": "#"
     }
   ],
-  "brands": [
-
-  ],
+  "brands": [],
   "about": {
     "imgSrc": "/images/dev-top.jpg",
     "miniTitle": "About",
     "title": "UNLEASHING INNOVATION THROUGH <span>SOFTWARE DEVELOPMENT</span>",
-    "description": "Greetings! I'm Kelvin, a passionate full-stack developer with over 8 years of experience in crafting remarkable web and app solutions. My journey involves delving deep into the realms of Java, JavaScript, Python, PHP, and Kotlin. Proficient in frameworks like Spring Boot, ReactJS, Angular, and Node.js, I strive to create impactful solutions that resonate in the world of software development.",
+    "description": "Greetings! I'm Felton, a passionate full-stack developer with over 8 years of experience in crafting remarkable web and app solutions. My journey involves delving deep into the realms of Java, JavaScript, Python, PHP, and Kotlin. Proficient in frameworks like Spring Boot, ReactJS, Angular, and Node.js, I strive to create impactful solutions that resonate in the world of software development.",
     "funfacts": [
-      {
-        "title": "Years Experience",
-        "number": 8
-      },
-      {
-        "title": "Projects Done",
-        "number": 49
-      }
+      { "title": "Years Experience", "number": 8 },
+      { "title": "Projects Done", "number": 49 }
     ],
-    "highlights": [
-      "UNLEASHING",
-      "sadsadsadsads"
-    ],
+    "highlights": ["UNLEASHING", "sadsadsadsads"],
     "btnText": "Let's Collaborate",
     "btnUrl": "contactus"
-  },  
-  "projects": {
-    "sectionHeading": {
-      "miniTitle": "My Work",
-      "title": "RECENT PROJECT"
-    },
-    "allProjects": [
-      {
-        "thumbUrl": "/images/howmicroserviceswork.jpg",
-        "title": "Microservices API",
-        "subTitle": "Backend Development, API Design , Microservice",
-        "details": {
-          "title": "API Development with Feign Client + Eureka + Spring Cloud Loadbalancer",
-          "description": "Development of microservices API using Feign Client, Eureka, and Spring Cloud Loadbalancer.",
-          "type": "Application",
-          "languages": "Java, Spring Boot, Postgres, REST",
-          "platform": "Spring Boot",
-          "country": "KENYA",
-          "url": "https://github.com/mulikevs/microservices"
-        }
-      },
-      {
-        "thumbUrl": "/images/DJango JWT.jpg",
-        "title": "Backend Development",
-        "subTitle": "Python Django CRUD API with MySQL and Django Rest Framework",
-        "details": {
-          "title": "Python Django CRUD API with MySQL and Django Rest Framework",
-          "description": "Development of a CRUD API using Python Django, MySQL, and Django Rest Framework.",
-          "type": "Application",
-          "languages": "Python, MySQL, REST",
-          "platform": "Python",
-          "country": "KENYA",
-          "url": "https://github.com/mulikevs/django_rest"
-        }
-      },
-      {
-        "thumbUrl": "/images/spring-boot.jpg",
-        "title": "Spring Security",
-        "subTitle": "A Spring Boot application with role-based permissions and JWT authenticated REST APIs.",
-        "details": {
-          "title": "ROLE AND PERMISSIONS BASED API WITH SPRING BOOT",
-          "description": "A Spring Boot application with role-based permissions and JWT authenticated REST APIs.",
-          "type": "Application",
-          "languages": "Java, Spring Boot, MySQL, REST",
-          "platform": "Spring Boot",
-          "country": "KENYA",
-          "url": "https://github.com/mulikevs/rolepermissions_jwt"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
-        "subTitle": "A visually appealing and user-friendly website designed for a foundation.",
-        "details": {
-          "title": "Website Design for a foundation",
-          "description": "A visually appealing and user-friendly website designed for a foundation.",
-          "type": "Website",
-          "languages": "React, Tailwind CSS",
-          "platform": "React Js",
-          "country": "KENYA",
-          "url": "https://bmkfoundation.org/"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Website Design",
-        "subTitle": "A Blog on Tech with an emphasis on web development.",
-        "details": {
-          "title": "SiteMapDev",
-          "description": "A Blog on Tech with an emphasis on web development.",
-          "type": "Website",
-          "languages": "PHP, Tailwind, JS",
-          "platform": "Laravel",
-          "country": "KENYA",
-          "url": "https://sitemapdev.co.ke/"
-        }
-      },
-      {
-        "thumbUrl": "/images/medium-shot1.jpg",
-        "title": "Simple Blackjack Game",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Simple Blackjack Game",
-          "description": "A straightforward implementation of a blackjack game.",
-          "type": "Game",
-          "languages": "HTML, CSS, JS",
-          "platform": "TypeScript",
-          "country": "KENYA",
-          "url": "https://github.com/mulikevs/simple-blackjack-game"
-        }
-      }
+  },
+  "projects": { "sectionHeading": { "miniTitle": "My Work", "title": "RECENT PROJECT" }, "allProjects": [] },
+  "service": {
+    "sectionHeading": { "miniTitle": "SERVICES", "title": "Design <span>services</span> I am providing" },
+    "allService": [
+      { "imgUrl": "/images/app-dev.jpg", "title": "Application Development", "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.", "icon": "bi:cpu", "ratings": 5 },
+      { "imgUrl": "/images/web-design.jpg", "title": "Website Design", "subTitle": "Crafting visually appealing and user-friendly websites that leave a lasting impression.", "icon": "bi:code-square", "ratings": 4.5 },
+      { "imgUrl": "/images/mobile-app-dev.jpg", "title": "Mobile App Development", "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.", "icon": "bi:phone", "ratings": 5 },
+      { "imgUrl": "/images/graphic-design.jpg", "title": "Graphic Design", "subTitle": "Bringing creativity to life through visually stunning graphic designs for various purposes.", "icon": "bi:palette", "ratings": 5 }
     ]
   },
-  "service": {
-    "sectionHeading": {
-      "miniTitle": "SERVICES",
-      "title": "Design <span>services</span> I am providing"
-    },
-    "allService": [
-      {
-        "imgUrl": "/images/app-dev.jpg",
-        "title": "Application Development",
-        "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.",
-        "icon": "bi:cpu",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/web-design.jpg",
-        "title": "Website Design",
-        "subTitle": "Crafting visually appealing and user-friendly websites that leave a lasting impression.",
-        "icon": "bi:code-square",
-        "ratings": 4.5
-      },
-      {
-        "imgUrl": "/images/mobile-app-dev.jpg",
-        "title": "Mobile App Development",
-        "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.",
-        "icon": "bi:phone",
-        "ratings": 5
-      },
-      {
-        "imgUrl": "/images/graphic-design.jpg",
-        "title": "Graphic Design",
-        "subTitle": "Bringing creativity to life through visually stunning graphic designs for various purposes.",
-        "icon": "bi:palette",
-        "ratings": 5
-      }
-    ]
-  },  
   "experience": {
-    "sectionHeading": {
-      "miniTitle": "Experience",
-      "title": "My Work <span>Experience</span>"
-    },
+    "sectionHeading": { "miniTitle": "Experience", "title": "My Work <span>Experience</span>" },
     "allExperience": [
       {
-        "designation": "Full Stack/Integrations Developer",
-        "company": "CO-OPERATIVE BANK | ONSITE",
-        "duration": "FEB 2021 - PRESENT",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
+        "designation": "Portfolio Websites",
+        "company": "Various Clients",
+        "duration": "",
+        "jobType": "Freelance",
+        "companyTitle": "Websites Built",
         "companyDescription": [
-          "Developed and managed SOA integrations using webservices technologies (SOAP, REST, UDDI, WSDL).",
-          "Implemented a DevOps CI/CD pipeline with Peer Programming, Version Control (TFS and Git), Jenkins, and TIBCO TEA for service hosting.",
-          "Developed Backend applications in Java spring boot and PHP Laravel using a React JS front end, and Oracle or MySQL databases.",
-          "Enhanced, tested, and digitized BPMS workflows using process maker."
+          "bettersms-net.sitemapdev.co.ke",
+          "fayahtravels.com",
+          "bazaar.sitemapdev.co.ke",
+          "livinghopehighschool.sitemapdev.co.ke",
+          "maridadi.sitemapdev.co.ke"
         ],
-        "achievements": [
-          "Successfully implemented a CI/CD pipeline, reducing deployment time by 30%.",
-          "Led the development of a critical SOA integration project, ensuring seamless communication between systems."
-        ]
-      },
-      {
-        "designation": "Software Consultant",
-        "company": "MOOVEBETA | REMOTE",
-        "duration": "MAR 2022 - SEP 2022",
-        "jobType": "Part time",
-        "companyTitle": "About Company",
-        "companyDescription": [
-          "Reviewed current systems, monitored performance, and maintained systems to ensure efficiency and compliance with organization policies (PCIDSS) and procedures."
-        ]
-      },
-      {
-        "designation": "PHP Developer",
-        "company": "FAMILY BANK | ONSITE",
-        "duration": "OCT 2020 - FEB 2021",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": [
-          "Managed existing systems, including database indexing and optimization.",
-          "Handled Repository Management SVN.",
-          "Collaborated with other developers, quality assurance, and DevOps Officers."
-        ],
-        "achievements": [
-          "."
-        ]
-      },
-      {
-        "designation": "Full Stack Developer/DevOps",
-        "company": "IMPALAPAY | HYBRID",
-        "duration": "JAN 2016 - OCT 2020",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": [
-          "Led software development projects using Java, PHP, React JS, Python, and mobile app development for Android and hybrid platforms.",
-          "Managed databases (Oracle, PostgreSQL, MySQL, SQLite, SQL Server).",
-          "Implemented and managed end-to-end Continuous Integration/Continuous Deployment (CI/CD) processes utilizing Git, Jenkins, and Terraform.",
-          "Utilized Docker for containerization and Kubernetes for orchestration, ensuring efficient management and scalability of applications."
-        ],
-        "achievements": [
-          "",
-          ""
-        ]
-      },
-      {
-        "designation": "Technical Support/ System Administrator",
-        "company": "IMPALAPAY | ONSITE",
-        "duration": "AUG 2014 - JAN 2016",
-        "jobType": "Full time",
-        "companyTitle": "About Company",
-        "companyDescription": [
-          "Provided full support, configuration, maintenance, and upgrades for both cloud and physical/virtual environments (Linux and Windows)."
-        ]
+        "achievements": []
       }
     ]
-  }
-  ,
-  "blog": {
-    "sectionHeading": {
-      "miniTitle": "BLOG",
-      "title": "Our <span>Latest</span> blog posts"
-    }
   },
+  "blog": { "sectionHeading": { "miniTitle": "BLOG", "title": "Our <span>Latest</span> blog posts" } },
   "testimonial": {
-    "sectionHeading": {
-      "miniTitle": "Testimonial",
-      "title": "WHAT PEOPLE SAY ABOUT ME"
-    },
+    "sectionHeading": { "miniTitle": "Testimonial", "title": "WHAT PEOPLE SAY ABOUT ME" },
     "allTestimonial": [
       {
-        "reviewText": "Muli's attention to detail and commitment to quality were instrumental in our project's success. His ability to code efficiently and troubleshoot issues made a significant impact. It was a great experience working alongside him",
+        "reviewText": "Felton's attention to detail and commitment to quality were instrumental in our project's success. His ability to code efficiently and troubleshoot issues made a significant impact. It was a great experience working alongside him",
         "avatarImg": "/images/tiger.jpg",
         "avatarName": "Eugene Chimita",
         "avatarCompany": "ImpalaPay"
       },
       {
-        "reviewText": "Kelvin is a highly skilled and experienced software developer. He is always willing to go the extra mile to get the job done and are always looking for ways to improve our systems. Kelvin is also a great team player and is always willing to help others. I highly recommend Kelvin for any software development position.",
+        "reviewText": "Felton is a highly skilled and experienced software developer. He is always willing to go the extra mile to get the job done and is always looking for ways to improve our systems. Felton is also a great team player and is always willing to help others. I highly recommend Felton for any software development position.",
         "avatarImg": "/images/tiger.jpg",
         "avatarName": "Peris",
         "avatarCompany": "MooveBeta"
       },
       {
-        "reviewText": "Working with Kelvin is a pleasure. His technical knowledge and collaborative approach made our projects run smoothly. He's a team player, always ready to share insights and support team members. I look forward to future collaborations with him.",
+        "reviewText": "Working with Felton is a pleasure. His technical knowledge and collaborative approach made our projects run smoothly. He's a team player, always ready to share insights and support team members. I look forward to future collaborations with him.",
         "avatarImg": "/images/tiger.jpg",
         "avatarName": "Morris Muthigani",
         "avatarCompany": "Co-op Bank"
       },
       {
-        "reviewText": "Kelvin delivered a solution that exceeded our expectations. His ability to understand our needs and translate them into a user-friendly application was impressive. We're grateful for his dedication to our project's success.",
+        "reviewText": "Felton delivered a solution that exceeded our expectations. His ability to understand our needs and translate them into a user-friendly application was impressive. We're grateful for his dedication to our project's success.",
         "avatarImg": "/images/tiger.jpg",
         "avatarName": "Agnes Kavoi",
         "avatarCompany": "BMK Foundation"
@@ -302,8 +107,8 @@
     },
     "contactImg": "/images/tiger.jpg",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "kelvinmmwau@gmail.com, mulikevs@sitemapdev.co.ke" },
-      { "title": "Write an e-mail", "tel": "+254 701 411 552" }
+      { "title": "Write an e-mail", "email": "feltonnyachae@gmail.com" },
+      { "title": "Call me", "tel": "+254 701 411 552" }
     ]
   }
 }
