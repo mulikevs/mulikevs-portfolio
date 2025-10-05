@@ -1,70 +1,150 @@
 {
   "hero": {
     "imgUrl": "/images/medium-shot1.jpg",
-    "name": "Felton Babu",
-    "heading": "",
-    "typingText": ["DevOps", 1500, "Software Engineer", 1500],
-    "description": "I'm a passionate Software Engineer hailing from Nairobi, Kenya, specializing in Java (Spring), Php (Codeigniter|Laravel), and RPA (Power Automate|UIPATH) with a keen interest in DevSecOps. Exploring new horizons and continuous learning are my driving forces. With a rich portfolio showcasing a myriad of projects, you're invited to delve into the details in the dedicated portfolio section of this website. I am eagerly anticipating exciting opportunities and challenges ahead. Let's embark on this journey together!",
+    "name": "Kelvin Muli Mwau",
+    "heading": "Senior Backend Engineer",
+    "typingText": ["Backend Engineering", 1500, "Microservices Architecture", 1500, "Cloud & DevOps", 1500],
+    "description": "I'm a seasoned Senior Backend Engineer based in Nairobi, Kenya with over 9 years of experience. I specialize in Java (Spring Boot), PHP (Laravel, CodeIgniter), and DevOps (Docker, Kubernetes, CI/CD). My expertise spans backend architecture, cloud deployments (AWS, Azure, GCP), and building scalable, fault-tolerant systems. I have contributed to high-impact fintech and banking solutions, automation workflows, and consulting projects across multiple industries. I’m passionate about creating technology that drives financial inclusion and real-world impact.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
   },
   "socialBtns": [
-    {
-      "icon": "fa-brands:github",
-      "iconBgClass": "github",
-      "href": "#"
-    },
+    { "icon": "fa-brands:github", "iconBgClass": "github", "href": "#" },
     { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "#" },
-    {
-      "icon": "fa-brands:linkedin-in",
-      "iconBgClass": "linkedin",
-      "href": "#"
-    },
-    {
-      "icon": "fa-solid:coffee",
-      "iconBgClass": "buymeacoffee",
-      "href": "#"
-    }
+    { "icon": "fa-brands:linkedin-in", "iconBgClass": "linkedin", "href": "#" },
+    { "icon": "fa-solid:coffee", "iconBgClass": "buymeacoffee", "href": "#" }
   ],
   "brands": [],
   "about": {
     "imgSrc": "/images/dev-top.jpg",
     "miniTitle": "About",
-    "title": "UNLEASHING INNOVATION THROUGH <span>SOFTWARE DEVELOPMENT</span>",
-    "description": "Greetings! I'm Felton, a passionate full-stack developer with over 8 years of experience in crafting remarkable web and app solutions. My journey involves delving deep into the realms of Java, JavaScript, Python, PHP, and Kotlin. Proficient in frameworks like Spring Boot, ReactJS, Angular, and Node.js, I strive to create impactful solutions that resonate in the world of software development.",
+    "title": "UNLEASHING INNOVATION THROUGH <span>SOFTWARE ENGINEERING</span>",
+    "description": "Hello! I'm Kelvin, a passionate backend engineer with 9+ years of experience building robust, scalable, and secure applications. My journey spans fintech, banking, and SaaS, with expertise in Java, PHP, Python, and cloud platforms. From microservices to DevSecOps, I bring a strong problem-solving mindset and thrive in Agile, cross-functional teams. I’m driven by continuous learning, innovation, and the mission of financial inclusion.",
     "funfacts": [
-      { "title": "Years Experience", "number": 8 },
-      { "title": "Projects Done", "number": 49 }
+      { "title": "Years Experience", "number": 9 },
+      { "title": "Projects Done", "number": 50 }
     ],
-    "highlights": ["UNLEASHING", "sadsadsadsads"],
+    "highlights": ["Microservices", "Cloud Infrastructure", "Fintech Solutions"],
     "btnText": "Let's Collaborate",
     "btnUrl": "contactus"
   },
-  "projects": { "sectionHeading": { "miniTitle": "My Work", "title": "RECENT PROJECT" }, "allProjects": [] },
+  "projects": {
+    "sectionHeading": { "miniTitle": "My Work", "title": "RECENT PROJECTS" },
+    "allProjects": []
+  },
   "service": {
-    "sectionHeading": { "miniTitle": "SERVICES", "title": "Design <span>services</span> I am providing" },
+    "sectionHeading": { "miniTitle": "SERVICES", "title": "Engineering <span>Services</span> I Provide" },
     "allService": [
-      { "imgUrl": "/images/app-dev.jpg", "title": "Application Development", "subTitle": "I specialize in developing innovative and efficient applications tailored to meet your specific needs.", "icon": "bi:cpu", "ratings": 5 },
-      { "imgUrl": "/images/web-design.jpg", "title": "Website Design", "subTitle": "Crafting visually appealing and user-friendly websites that leave a lasting impression.", "icon": "bi:code-square", "ratings": 4.5 },
-      { "imgUrl": "/images/mobile-app-dev.jpg", "title": "Mobile App Development", "subTitle": "Creating seamless and responsive mobile applications to enhance user experiences.", "icon": "bi:phone", "ratings": 5 },
-      { "imgUrl": "/images/graphic-design.jpg", "title": "Graphic Design", "subTitle": "Bringing creativity to life through visually stunning graphic designs for various purposes.", "icon": "bi:palette", "ratings": 5 }
+      { "imgUrl": "/images/app-dev.jpg", "title": "Backend Development", "subTitle": "Designing scalable, secure, and efficient backend systems and APIs.", "icon": "bi:cpu", "ratings": 5 },
+      { "imgUrl": "/images/web-design.jpg", "title": "Full Stack Solutions", "subTitle": "Building end-to-end applications using modern frameworks and best practices.", "icon": "bi:code-square", "ratings": 5 },
+      { "imgUrl": "/images/mobile-app-dev.jpg", "title": "Cloud & DevOps", "subTitle": "Deploying and managing applications on AWS, GCP, and Azure with CI/CD pipelines.", "icon": "bi:phone", "ratings": 5 },
+      { "imgUrl": "/images/graphic-design.jpg", "title": "Automation & RPA", "subTitle": "Streamlining workflows through automation tools such as ProcessMaker, UiPath, and Power Automate.", "icon": "bi:palette", "ratings": 5 }
     ]
   },
   "experience": {
     "sectionHeading": { "miniTitle": "Experience", "title": "My Work <span>Experience</span>" },
     "allExperience": [
       {
-        "designation": "Portfolio Websites",
-        "company": "Various Clients",
-        "duration": "",
-        "jobType": "Freelance",
-        "companyTitle": "Websites Built",
+        "designation": "Integrations & Backend Developer",
+        "company": "Co-operative Bank of Kenya",
+        "duration": "2022 – Present",
+        "jobType": "Full-time",
+        "companyTitle": "Banking & Fintech Solutions",
         "companyDescription": [
-          "bettersms-net.sitemapdev.co.ke",
-          "fayahtravels.com",
-          "bazaar.sitemapdev.co.ke",
-          "livinghopehighschool.sitemapdev.co.ke",
-          "maridadi.sitemapdev.co.ke"
+          "Designed and implemented microservices-based banking systems using Spring Boot.",
+          "Automated workflows with ProcessMaker, improving account opening throughput by 70%.",
+          "Built REST/SOAP APIs integrating Oracle/MySQL with external partners.",
+          "Collaborated with solution architects and cross-functional teams to deliver secure, scalable solutions."
+        ],
+        "achievements": ["Reduced release cycles by 40%", "Enabled secure transactions for 1M+ users"]
+      },
+      {
+        "designation": "Backend Software Developer",
+        "company": "Family Bank Kenya",
+        "duration": "2021 – 2022",
+        "jobType": "Full-time",
+        "companyTitle": "Banking Technology",
+        "companyDescription": [
+          "Developed scalable PHP and Java applications for core banking functions.",
+          "Optimized databases (Oracle/MySQL) reducing query response time by 30%.",
+          "Built CI/CD pipelines with Git and SVN to automate deployments."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "System Support Engineer / Full Stack Developer / DevSecOps Engineer",
+        "company": "ImpalaPay Ltd",
+        "duration": "2014 – 2021",
+        "jobType": "Full-time",
+        "companyTitle": "Digital Payments & Integrations",
+        "companyDescription": [
+          "Maintained enterprise systems ensuring 99.9% uptime and secure configurations.",
+          "Built applications with Java (Spring Boot) and PHP frameworks (CodeIgniter, Yii).",
+          "Integrated APIs (REST/SOAP) with third-party systems to process 10,000+ daily transactions.",
+          "Implemented CI/CD pipelines with Git, Jenkins, and Docker, reducing deployment time by 30%.",
+          "Deployed and scaled applications on AWS and Azure while ensuring PCI-DSS compliance."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "Backend & Cloud Consultant",
+        "company": "Sarafu Payments",
+        "duration": "Contract",
+        "jobType": "Consulting",
+        "companyTitle": "Fintech Consulting",
+        "companyDescription": [
+          "Deployed financial solutions on AWS (EC2, S3, IAM).",
+          "Optimized deployment pipelines and improved infrastructure security."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "Backend & Full Stack Consultant",
+        "company": "Impala Digital Payments",
+        "duration": "Contract",
+        "jobType": "Consulting",
+        "companyTitle": "Money Transfer Platform",
+        "companyDescription": [
+          "Designed and deployed impaladigitalpayments.com, a money transfer solution.",
+          "Implemented microservices using Spring Boot and Laravel.",
+          "Deployed solutions on AWS ensuring scalability, reliability, and compliance."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "Backend & Full Stack Consultant",
+        "company": "Fayah Travels",
+        "duration": "Contract",
+        "jobType": "Consulting",
+        "companyTitle": "Travel Platform",
+        "companyDescription": [
+          "Built and launched fayahtravels.com, a tours and travel platform.",
+          "Developed backend using Laravel and optimized database queries.",
+          "Deployed and managed on cPanel and AWS for high availability."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "Network Administrator & Instructor",
+        "company": "Harmony Computer College",
+        "duration": "2013 – 2014",
+        "jobType": "Full-time",
+        "companyTitle": "Education & Training",
+        "companyDescription": [
+          "Installed and configured computer networks.",
+          "Taught C programming and mathematics."
+        ],
+        "achievements": []
+      },
+      {
+        "designation": "IT Intern",
+        "company": "Kenyatta National Hospital",
+        "duration": "2012",
+        "jobType": "Internship",
+        "companyTitle": "Healthcare IT",
+        "companyDescription": [
+          "Installed and configured hardware/software.",
+          "Set up networks and ensured connectivity and security."
         ],
         "achievements": []
       }
@@ -73,32 +153,7 @@
   "blog": { "sectionHeading": { "miniTitle": "BLOG", "title": "Our <span>Latest</span> blog posts" } },
   "testimonial": {
     "sectionHeading": { "miniTitle": "Testimonial", "title": "WHAT PEOPLE SAY ABOUT ME" },
-    "allTestimonial": [
-      {
-        "reviewText": "Felton's attention to detail and commitment to quality were instrumental in our project's success. His ability to code efficiently and troubleshoot issues made a significant impact. It was a great experience working alongside him",
-        "avatarImg": "/images/tiger.jpg",
-        "avatarName": "Eugene Chimita",
-        "avatarCompany": "ImpalaPay"
-      },
-      {
-        "reviewText": "Felton is a highly skilled and experienced software developer. He is always willing to go the extra mile to get the job done and is always looking for ways to improve our systems. Felton is also a great team player and is always willing to help others. I highly recommend Felton for any software development position.",
-        "avatarImg": "/images/tiger.jpg",
-        "avatarName": "Peris",
-        "avatarCompany": "MooveBeta"
-      },
-      {
-        "reviewText": "Working with Felton is a pleasure. His technical knowledge and collaborative approach made our projects run smoothly. He's a team player, always ready to share insights and support team members. I look forward to future collaborations with him.",
-        "avatarImg": "/images/tiger.jpg",
-        "avatarName": "Morris Muthigani",
-        "avatarCompany": "Co-op Bank"
-      },
-      {
-        "reviewText": "Felton delivered a solution that exceeded our expectations. His ability to understand our needs and translate them into a user-friendly application was impressive. We're grateful for his dedication to our project's success.",
-        "avatarImg": "/images/tiger.jpg",
-        "avatarName": "Agnes Kavoi",
-        "avatarCompany": "BMK Foundation"
-      }
-    ]
+    "allTestimonial": []
   },
   "contact": {
     "sectionHeading": {
@@ -107,7 +162,7 @@
     },
     "contactImg": "/images/tiger.jpg",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "feltonnyachae@gmail.com" },
+      { "title": "Write an e-mail", "email": "kelvinmmwau@gmail.com" },
       { "title": "Call me", "tel": "+254 701 411 552" }
     ]
   }
